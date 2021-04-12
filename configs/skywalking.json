@@ -11,6 +11,15 @@
           "v8.2.0"
         ]
       }
+    },
+    {
+      "url": "https://skywalking.apache.org/docs/skywalking-satellite/(?P<version>.*?)/",
+      "variables": {
+        "version": [
+          "latest",
+          "v0.1.0"
+        ]
+      }
     }
   ],
   "sitemap_urls": [
